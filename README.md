@@ -1,4 +1,4 @@
-# Three Heroku Template
+# Three.js Heroku game
 
 ## Install
 ```bash
